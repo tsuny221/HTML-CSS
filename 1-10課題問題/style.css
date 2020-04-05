@@ -50,6 +50,8 @@ main {
 
 .flow-num {
 	background-color: #FF9A4B;
+	line-height: 30px;
+	padding:0 3px;
 	color: white;
 	position: absolute;
 	top: 0;
