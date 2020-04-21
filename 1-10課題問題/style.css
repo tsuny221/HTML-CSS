@@ -51,7 +51,7 @@ main {
 .flow-num {
 	background-color: #FF9A4B;
 	line-height: 30px;
-	padding:0 3px;
+	padding:0px 5px;
 	color: white;
 	position: absolute;
 	top: 0;
@@ -70,13 +70,11 @@ main{
 .flow {
 width: 100%;
 float: none;
-margin: 0 auto;
 margin-bottom: 20px;
 }
 
 .flow:last-child {
-	margin: 0 auto;
-	margin-bottom: 0;
+	margin-bottom: 0px;
 }
 .flow-img1 {
 	width: 100%;
